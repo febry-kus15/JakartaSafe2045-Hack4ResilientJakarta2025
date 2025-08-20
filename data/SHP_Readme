@@ -1,0 +1,15 @@
+🌊 Flood & Vulnerability Insights
+This project provides two key datasets to support flood risk analysis and social vulnerability mapping across sub-districts.
+
+📍 Flood Count
+Displays the number of flooding incidents recorded in each sub-district from 2016 to 2018.
+
+🧭 Social Vulnerability
+Highlights areas with high social vulnerability, based on a weighted index of the following indicators:
+
+👶 Children population
+👵 Elderly population
+🏙️ Population density
+💸 Poverty levels
+🌊 Flood exposure
+These indicators help identify communities that may require prioritized support and intervention.
